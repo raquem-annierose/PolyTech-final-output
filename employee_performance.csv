@@ -1,15 +1,15 @@
-age,years_experience,education_level,department,performance_score,performance_category
+age,years_EXPerience,education_level,group/department,performancescore,performance_category
 58,23,High School,Finance,10,Excellent
-48,39,Bachelor,HR,6,Good
+48,39,Bchelor,HR,,
 34,15,High School,HR,5,Average
 27,29,PhD,HR,4,Average
 40,36,PhD,Finance,2,Poor
 58,13,PhD,Tech,4,Average
 38,32,PhD,Tech,10,Excellent
 42,7,PhD,Finance,10,Excellent
-30,22,Master,HR,3,Poor
+30,22,Master's,HR,3,Poor
 30,28,Master,HR,10,Excellent
-43,2,High School,Tech,1,Poor
+43,2,Hs,Tech,1,Poor
 55,6,PhD,HR,8,Very Good
 59,28,High School,Sales,5,Average
 43,28,PhD,Tech,4,Average
