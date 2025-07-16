@@ -1,4 +1,4 @@
-age,years_EXPerience,education_level,group/department,performancescore,performance_category
+age,years_experience,education_level,group_department,performancescore,performance_category
 58,23,High School,Finance,10,Excellent
 48,39,Bchelor,HR,,
 34,15,High School,HR,5,Average
