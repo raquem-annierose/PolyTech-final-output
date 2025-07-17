@@ -1,7 +1,7 @@
 age,years_experience,education_level,department,performance_score,performance_category,annual_performance,performance_level,age_group,experience_band
 58,23,High School,Finance,10.0,Excellent,0.43478260869565216,High,Senior,Senior
 34,15,High School,HR,5.0,Good,0.3333333333333333,Medium,Mid-Career,Mid
-27,29,PhD,HR,4.0,Average,0.13793103448275862,Low,Young,Senior
+40,29,PhD,HR,4.0,Average,0.13793103448275862,Low,Mid-Career,Senior
 40,36,PhD,Finance,2.0,Poor,0.05555555555555555,Low,Mid-Career,Senior
 58,13,PhD,Tech,4.0,Average,0.3076923076923077,Low,Senior,Mid
 38,32,PhD,Tech,10.0,Excellent,0.3125,High,Mid-Career,Senior

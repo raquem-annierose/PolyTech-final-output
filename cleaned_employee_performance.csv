@@ -1,7 +1,7 @@
 age,years_experience,education_level,department,performance_score,performance_category
 58,23,High School,Finance,10.0,Excellent
 34,15,High School,HR,5.0,Good
-27,29,PhD,HR,4.0,Average
+40,29,PhD,HR,4.0,Average
 40,36,PhD,Finance,2.0,Poor
 58,13,PhD,Tech,4.0,Average
 38,32,PhD,Tech,10.0,Excellent
