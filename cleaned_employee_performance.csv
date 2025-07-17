@@ -6,7 +6,7 @@ age,years_experience,education_level,department,performance_score,performance_ca
 58,13,PhD,Tech,4.0,Average
 38,32,PhD,Tech,10.0,Excellent
 42,7,PhD,Finance,10.0,Excellent
-30,22,Master'S,HR,3.0,Poor
+30,22,Master,HR,3.0,Poor
 30,28,Master,HR,10.0,Excellent
 43,2,High School,Tech,1.0,Poor
 55,6,PhD,HR,8.0,Very Good
